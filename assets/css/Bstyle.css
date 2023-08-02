@@ -9,14 +9,11 @@
 /*!============================start HomePage============================= */
 
 /***************Start home slider*************/
-.home-slider 
-{
-  height: 100vh;
-}
+
 .home-slider {
   height: 100vh;
 }
-.slick-list{
+.home-slider .slick-list{
   height: 100vh;
 }
 .home-slider .slick-next {
